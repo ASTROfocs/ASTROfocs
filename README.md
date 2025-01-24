@@ -1,12 +1,12 @@
-** About me **
-Student and hobbyist
+**About me**
+- Student and hobbyist
 
-** Technologies **
+**Technologies**
 - Python
   - mypy
   - pygame
 
-** Current projects **
+**Current projects**
 - Making a chess game
 - Learning to use Neovim
 - Learning to use GitHub
